@@ -1,56 +1,92 @@
-{
-	"Language": "en",
-	"PreKey": "",
-	"AutoUpdate": false,
-	"MainColor": "#9900FF",
-	"MainName": "[ FCA-PRIYANSH ]",
-	"Uptime": true,
-	"Config": "default",
-	"Login2Fa": false,
-	"AutoLogin": false,
-	"BroadCast": true,
-	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z",
-	"EncryptFeature": false,
-	"ResetDataLogin": false,
-	"AutoRestartMinutes": 0,
-	"HTML": {
-		"HTML": true,
-		"UserName": "Guest",
-		"MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
-	},
-	"AntiSendAppState": true,
-	"DevMode": false,
-	"AutoInstallNode": false,
-	"RestartMQTT_Minutes": 0,
-	"Stable_Version": {
-		"Accept": false,
-		"Version": ""
-	},
-	"AntiGetInfo": {
-		"Database_Type": "default",
-		"AntiGetThreadInfo": true,
-		"AntiGetUserInfo": true
-	},
-	"Websocket_Extension": {
-		"Status": false,
-		"ResetData": false,
-		"AppState_Path": "appstate.json"
-	},
-	"CheckPointBypass": {
-		"956": {
-			"Allow": false,
-			"Difficult": "Easy",
-			"Notification": "Turn on with AutoLogin!"
-		}
-	},
-	"AntiStuckAndMemoryLeak": {
-		"AutoRestart": {
-			"Use": true,
-			"Explain": "When this feature is turned on, the system will continuously check and confirm that if memory usage reaches 90%, it will automatically restart to avoid freezing or stopping."
-		},
-		"LogFile": {
-			"Use": false,
-			"Explain": "Record memory usage logs to fix errors. Default location: Horizon_Database/memory.logs"
-		}
-	}
-}
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100046530968846%22%3A%22RruqiYp3%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "sb",
+        "value": "_fYWaBHSNcm7zY5uJzyFw68G",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "wd",
+        "value": "1440x757",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "datr",
+        "value": "AM-eaOcVsdNxrtw2ZXRCZAU4",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100046530968846",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "xs",
+        "value": "21%3AJveHqVXvSCevpg%3A2%3A1755254229%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "fr",
+        "value": "1gZkrkxMyjOyD0dKi.AWeL9UoO93cUlFPztjvDk5b0qv9JBEyzyFD4AGpt9I0HmmzGEQo.Bonth9..AAA.0.0.Bonw7g.AWeUnY3T4b7bCMddSLmUcxZ93ik",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    },
+    {
+        "key": "presence",
+        "value": "C%7B%22lm3%22%3A%22g.5833880630070660%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1755215092673%2C%22v%22%3A1%7D",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-08-14T23:45:05.856Z",
+        "lastAccessed": "2025-08-14T23:45:05.856Z"
+    }
+]
